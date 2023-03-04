@@ -1,2 +1,4 @@
 # Coding Journey Website
  Website for my studies in coding, will eventually make a portfolio page.
+
+Hey all, my plan so far will be to go back over my notes and get caught up and my goal for this website will be to show and expand upon the assignments that ive been doing in these coding videos.  I plan on having an organized page and making this a library of sorts of various subjects in the lessons that im taking in my coding journey.  I plan on putting some information in everyday.  Though sometimes I might miss a day life happens, I would like to help you learn and in the same process help me leaen.
