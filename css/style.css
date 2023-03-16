@@ -1,21 +1,4 @@
 p {
-<<<<<<< Updated upstream
-    color: rgba(255, 255, 255, 0.916);
-    }
-    
-    .month {
-    color:blueviolet
-    }
-    
-    
-    .Date {
-    color: aqua;
-    }
-    
-    body {
-        background-color: black;
-    }
-=======
 color: rgba(255, 255, 255, 0.916);
 }
 
@@ -31,4 +14,7 @@ color: aqua;
 body {
     background-color: black;
 }
->>>>>>> Stashed changes
+
+.revision {
+    font-style: italic;
+}
